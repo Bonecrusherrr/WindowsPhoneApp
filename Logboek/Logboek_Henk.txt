@@ -1,0 +1,6 @@
+.LOG
+
+Github aangemaakt.
+11:24 13-2-2017
+
+Visual Studio SDK toegevoegd.
