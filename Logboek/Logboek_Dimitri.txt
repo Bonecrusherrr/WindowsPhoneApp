@@ -1,0 +1,11 @@
+.LOG
+
+08:47 13-2-2017
+Geïnstalleerd:	Visual Studio Ultimate 2013 with Blend
+		Hyper-V enablen is niet mogelijk
+10:20 13-2-2017
+Repository "Bonecrusherrr/WindowsPhoneApp.git" aangemaakt
+GitHub Desktop installeren
+
+15:00 15-2-2017
+Aquisitie opdrachtgever: Sedna Software
