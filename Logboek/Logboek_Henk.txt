@@ -4,3 +4,9 @@ Github aangemaakt.
 11:24 13-2-2017
 
 Visual Studio SDK toegevoegd.
+08:34 16-2-2017
+
+Documenten klaargezet
+08:34 16-2-2017
+
+Mappen structuur aangemaakt
