@@ -1,5 +1,4 @@
 .LOG
-
 Github aangemaakt.
 11:24 13-2-2017
 
@@ -20,3 +19,11 @@ Planning afmaken
 
 Taakverdeling gemaakt
 08:51 17-2-2017
+
+Begin aan hernieuwde opdracht
+11:55 17-2-2017
+
+Use-Case gemaakt
+11:55 17-2-2017
+
+Offerte gemaakt
