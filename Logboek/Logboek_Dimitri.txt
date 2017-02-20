@@ -12,3 +12,6 @@ Aquisitie opdrachtgever: Sedna Software
 
 09:00 17-2-2017
 interview voorbereiding afgerond, begin aan wireframes
+
+08:56 20-2-2017
+plugins e.d. voor visual studio bijwerken
