@@ -21,9 +21,16 @@ Taakverdeling gemaakt
 08:51 17-2-2017
 
 Begin aan hernieuwde opdracht
-11:55 17-2-2017
+11:55 20-2-2017
 
 Use-Case gemaakt
-11:55 17-2-2017
+11:55 21-2-2017
 
 Offerte gemaakt
+09:43 22-2-2017
+
+Offerte afgemaakt
+09:43 22-2-2017
+
+Hernieuwde opdracht maken
+09:45 22-2-2017
