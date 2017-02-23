@@ -15,3 +15,6 @@ interview voorbereiding afgerond, begin aan wireframes
 
 08:56 20-2-2017
 plugins e.d. voor visual studio bijwerken
+
+09:50 21-2-2017
+xamarin geinstalleerd
