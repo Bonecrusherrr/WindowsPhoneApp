@@ -1,0 +1,20 @@
+Operating System
+	Windows 10 Education 64-bit
+CPU
+	AMD A10-4600M	105 °C
+	Trinity 32nm Technology
+RAM
+	8,00GB Dual-Channel DDR3 @ 798MHz (11-11-12-28)
+Motherboard
+	ASUSTeK COMPUTER INC. N56DP (P0)	56 °C
+Graphics
+	Generic PnP Monitor (1366x768@60Hz)
+	512MB ATI AMD Radeon HD 7660G + HD 7700M Dual Graphics (ASUStek Computer Inc)	52 °C
+	2048MB ATI AMD Radeon HD 7700M Series (ASUStek Computer Inc)	52 °C
+	CrossFire Disabled
+Storage
+	Analyzing...
+Optical Drives
+	Analyzing...
+Audio
+	Realtek High Definition Audio
