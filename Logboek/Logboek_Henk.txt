@@ -41,7 +41,8 @@ Planning geupdate
 Hernieuwde opdracht afgemaakt
 09:45 8-3-2017
 
-Solution aangemaakt
+Solution aangemaakt + ingericht
 
-Solution ingericht
-09:37 20-3-2017
+12:18 20-3-2017
+
+Klassendiagram gemaakt
