@@ -45,3 +45,9 @@ interview uitgewerkt en bevestigd
 
 14:49 19-3-2017
 in te vullen organisatieonderzoek document gemaakt
+
+09:26 20-3-2017
+genormaliseerde db en bijgewerkte datadictionary gemaakt
+
+11:36 20-3-2017
+backup procedure ontwikkelomgeving gemaakt
