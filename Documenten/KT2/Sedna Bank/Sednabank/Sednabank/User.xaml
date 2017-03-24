@@ -9,6 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
+        <Button x:Name="historyBtn" Content="Geschiedenis" HorizontalAlignment="Left" Margin="103,37,0,0" VerticalAlignment="Top" Click="historyBtn_Click"/>
 
     </Grid>
 </Page>

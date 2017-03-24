@@ -9,11 +9,11 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <TextBlock x:Name="textBox" HorizontalAlignment="Center" Margin="12,10,10,0" TextWrapping="Wrap" Text="Menu" VerticalAlignment="Top" Width="378" TextAlignment="Center" Height="25" FontSize="22"/>
-        <DatePicker x:Name="datePkr" Margin="10,30,10,550" FontSize="14"/>
-        <Button x:Name="View" Content="Weergave" Margin="10,220,0,290" Height="130" Width="187"></Button>
-        <Button x:Name="Account" Content="Account" Margin="10,338,0,172" Height="130" Width="187" Click="Account_OnClick"></Button>
-        <Button x:Name="About" Content="Over" Margin="203,338,0,172" Height="130" Width="187"/>
-        <Button x:Name="Notifications" Content="Meldingen" Margin="203,220,0,290" Height="130" Width="187"/>
+        <TextBlock x:Name="nameTxb" HorizontalAlignment="Center" Margin="12,10,10,0" TextWrapping="Wrap" Text="Menu" VerticalAlignment="Top" Width="378" TextAlignment="Center" Height="25" FontSize="22"/>
+        <Button x:Name="ViewBtn" Content="Weergave" Margin="10,220,0,290" Height="130" Width="187"></Button>
+        <Button x:Name="AccountBtn" Content="Account" Margin="10,338,0,172" Height="130" Width="187" Click="Account_OnClick"></Button>
+        <Button x:Name="AboutBtn" Content="Over" Margin="203,338,0,172" Height="130" Width="187"/>
+        <Button x:Name="NotificationsBtn" Content="Meldingen" Margin="203,220,0,290" Height="130" Width="187"/>
+        <Button x:Name="dateBtn" FontSize="36" HorizontalAlignment="Left" Margin="12,25,0,0" VerticalAlignment="Top" Width="378" Height="175"/>
     </Grid>
 </Page>

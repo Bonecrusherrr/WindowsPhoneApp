@@ -22,11 +22,15 @@ namespace Sednabank
     /// </summary>
     public sealed partial class MainPage : Page
     {
+        private DateTime time = new DateTime();
         public MainPage()
         {
             this.InitializeComponent();
 
             this.NavigationCacheMode = NavigationCacheMode.Required;
+            
+            time = System.DateTime.Now.ToLocalTime();
+            dateBtn.Content = time;
         }
 
         /// <summary>
