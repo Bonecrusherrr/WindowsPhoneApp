@@ -61,3 +61,6 @@ datadictionary controleren
 
 11:24 27-3-2017
 datadictionary met normalisatie samengevoegd en bijgewerkt
+
+11:35 27-3-2017
+sqlite for windows phone 8.1 gedownload en geinstalleerd
