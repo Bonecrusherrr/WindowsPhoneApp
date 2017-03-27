@@ -54,3 +54,7 @@ backup procedure ontwikkelomgeving gemaakt
 
 11:40 20-3-2017
 installatie configuratie testen ontwikkelomgeving aangemaakt
+
+11:06 27-3-2017
+normalisatie afgerond
+datadictionary controleren
