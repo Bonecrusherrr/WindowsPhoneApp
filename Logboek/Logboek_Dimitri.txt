@@ -64,3 +64,12 @@ datadictionary met normalisatie samengevoegd en bijgewerkt
 
 11:35 27-3-2017
 sqlite for windows phone 8.1 gedownload en geinstalleerd
+
+11:49 27-3-2017
+aangemeld voor azure tbv database
+
+12:04 27-3-2017
+inloggen voor azure timed out op d184840, proberen op dima_nazari
+
+12:09 27-3-2017
+creditcard gegevens nodig voor voltooien van registratie, zal dus thuis moeten
