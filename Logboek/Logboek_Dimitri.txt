@@ -58,3 +58,6 @@ installatie configuratie testen ontwikkelomgeving aangemaakt
 11:06 27-3-2017
 normalisatie afgerond
 datadictionary controleren
+
+11:24 27-3-2017
+datadictionary met normalisatie samengevoegd en bijgewerkt
