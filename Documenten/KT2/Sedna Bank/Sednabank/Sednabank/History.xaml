@@ -6,9 +6,12 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    Background="#FF8F6262">
 
     <Grid>
-
+        <Button x:Name="nameBtn" HorizontalAlignment="Center" Margin="10,7,10,566" Content="Geschiedenis" BorderThickness="0" VerticalAlignment="Center" Width="380" Height="67" FontSize="30" Click="nameTxb_Click"/>
+        <ScrollViewer HorizontalAlignment="Left" Height="100" Margin="19,106,0,0" VerticalAlignment="Top" Width="200">
+            
+        </ScrollViewer>
     </Grid>
 </Page>

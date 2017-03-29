@@ -35,5 +35,10 @@ namespace Sednabank
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
         }
+
+        private void nameTxb_Click(object sender, RoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(MainPage));
+        }
     }
 }

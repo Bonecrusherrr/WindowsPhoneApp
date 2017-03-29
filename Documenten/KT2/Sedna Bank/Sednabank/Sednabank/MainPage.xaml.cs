@@ -30,7 +30,7 @@ namespace Sednabank
             this.NavigationCacheMode = NavigationCacheMode.Required;
             
             time = System.DateTime.Now.ToLocalTime();
-            dateBtn.Content = time;
+            dateBtn.Content = time.ToString("D");
         }
 
         /// <summary>
@@ -52,6 +52,11 @@ namespace Sednabank
         private void Account_OnClick(object sender, RoutedEventArgs e)
         {
             Frame.Navigate(typeof(User));
+        }
+
+        private void dateBtn_Click(object sender, RoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(List));
         }
     }
 }

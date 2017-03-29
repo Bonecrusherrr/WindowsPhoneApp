@@ -5,15 +5,16 @@
     xmlns:local="using:Sednabank"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    mc:Ignorable="d"
-    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    mc:Ignorable="d" Background="#FF8F6262">
 
     <Grid>
-        <TextBlock x:Name="nameTxb" HorizontalAlignment="Center" Margin="12,10,10,0" TextWrapping="Wrap" Text="Menu" VerticalAlignment="Top" Width="378" TextAlignment="Center" Height="25" FontSize="22"/>
-        <Button x:Name="ViewBtn" Content="Weergave" Margin="10,220,0,290" Height="130" Width="187"></Button>
-        <Button x:Name="AccountBtn" Content="Account" Margin="10,338,0,172" Height="130" Width="187" Click="Account_OnClick"></Button>
-        <Button x:Name="AboutBtn" Content="Over" Margin="203,338,0,172" Height="130" Width="187"/>
-        <Button x:Name="NotificationsBtn" Content="Meldingen" Margin="203,220,0,290" Height="130" Width="187"/>
-        <Button x:Name="dateBtn" FontSize="36" HorizontalAlignment="Left" Margin="12,25,0,0" VerticalAlignment="Top" Width="378" Height="175"/>
+        <TextBlock x:Name="nameTxb" HorizontalAlignment="Center" Margin="10,9,10,577" TextWrapping="Wrap" Text="Menu" VerticalAlignment="Center" Width="380" TextAlignment="Center" Height="54" FontSize="30"/>
+        
+        <Button x:Name="ViewBtn" Content="Weergave" Margin="10,220,0,290" Height="130" Width="187" BorderThickness="0"></Button>
+        <Button x:Name="AccountBtn" Content="Account" Margin="10,338,0,172" Height="130" Width="187" BorderThickness="0" Click="Account_OnClick"></Button>
+        <Button x:Name="AboutBtn" Content="Over" Margin="203,338,0,172" Height="130" Width="187" BorderThickness="0"/>
+        <Button x:Name="NotificationsBtn" Content="Meldingen" Margin="203,220,0,290" Height="130" Width="187" BorderThickness="0"/>
+        <Button x:Name="dateBtn" FontSize="36" HorizontalAlignment="Left" Margin="10,59,0,0" VerticalAlignment="Top" Width="380" BorderThickness="0" Height="175" Click="dateBtn_Click"/>
+        
     </Grid>
 </Page>

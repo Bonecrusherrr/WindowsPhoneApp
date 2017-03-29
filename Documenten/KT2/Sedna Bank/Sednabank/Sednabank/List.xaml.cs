@@ -20,11 +20,9 @@ namespace Sednabank
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
-    public sealed partial class User : Page
+    public sealed partial class List : Page
     {
-        
-
-        public User()
+        public List()
         {
             this.InitializeComponent();
         }
@@ -36,12 +34,6 @@ namespace Sednabank
         /// This parameter is typically used to configure the page.</param>
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
-
-        }
-
-        private void historyBtn_Click(object sender, RoutedEventArgs e)
-        {
-            Frame.Navigate(typeof(History));
         }
 
         private void nameTxb_Click(object sender, RoutedEventArgs e)
