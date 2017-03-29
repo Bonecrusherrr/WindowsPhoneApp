@@ -79,3 +79,6 @@ nieuwe solution aangemaakt, beter compatibel met local db
 
 11:12 29-3-2017
 nieuwe solution discarded, nu weet ik hoe het met de huidige solution moet
+
+11:26 29-3-2017
+datadictionary afgerond
