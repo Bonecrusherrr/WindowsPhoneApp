@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Windows.UI.Xaml;
+using SQLite;
 
 namespace Sednabank
 {
@@ -11,9 +12,13 @@ namespace Sednabank
     {
         const string conn = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\Docs\Documents\GitHub\WindowsPhoneApp\Documenten\KT2\W 2.1\Database.mdf;Integrated Security=True;Connect Timeout=30";
         
+
         static void Connect()
         {
-            
+            using (SQLiteConnection dbConn = new SQLiteConnection(conn))
+            {
+                dbConn.CreateTable<>();
+            }
         }
     }
 }
