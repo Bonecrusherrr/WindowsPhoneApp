@@ -12,11 +12,13 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
+using SQLite;
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=391641
 
 namespace Sednabank
 {
+   
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
@@ -29,6 +31,8 @@ namespace Sednabank
 
             this.NavigationCacheMode = NavigationCacheMode.Required;
             
+            
+               
             time = System.DateTime.Now.ToLocalTime();
             dateBtn.Content = time.ToString("D");
         }
