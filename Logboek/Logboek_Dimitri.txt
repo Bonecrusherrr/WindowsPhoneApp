@@ -82,3 +82,6 @@ nieuwe solution discarded, nu weet ik hoe het met de huidige solution moet
 
 11:26 29-3-2017
 datadictionary afgerond
+
+09:29 31-3-2017
+begonnen aan 2.1.4 procedure aanleveren dbgegevens
