@@ -33,3 +33,55 @@ main document bijgewerkt
 
 09:46 15-3-2017
 interview bestanden gemaakt
+
+10:29 15-3-2017
+git branches voor ieder gemaakt
+
+09:49 16-3-2017
+use case templates gemaakt en diagram bijgewerkt
+
+15:02 17-3-2017
+interview uitgewerkt en bevestigd
+
+14:49 19-3-2017
+in te vullen organisatieonderzoek document gemaakt
+
+09:26 20-3-2017
+genormaliseerde db en bijgewerkte datadictionary gemaakt
+
+11:36 20-3-2017
+backup procedure ontwikkelomgeving gemaakt
+
+11:40 20-3-2017
+installatie configuratie testen ontwikkelomgeving aangemaakt
+
+11:06 27-3-2017
+normalisatie afgerond
+datadictionary controleren
+
+11:24 27-3-2017
+datadictionary met normalisatie samengevoegd en bijgewerkt
+
+11:35 27-3-2017
+sqlite for windows phone 8.1 gedownload en geinstalleerd
+
+11:49 27-3-2017
+aangemeld voor azure tbv database
+
+12:04 27-3-2017
+inloggen voor azure timed out op d184840, proberen op dima_nazari
+
+12:09 27-3-2017
+creditcard gegevens nodig voor voltooien van registratie, zal dus thuis moeten
+
+10:39 28-3-2017
+nieuwe solution aangemaakt, beter compatibel met local db
+
+11:12 29-3-2017
+nieuwe solution discarded, nu weet ik hoe het met de huidige solution moet
+
+11:26 29-3-2017
+datadictionary afgerond
+
+09:29 31-3-2017
+begonnen aan 2.1.4 procedure aanleveren dbgegevens

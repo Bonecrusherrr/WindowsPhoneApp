@@ -1,0 +1,32 @@
+Naam 			Productbestelling toevoegen
+Versie 			1.0
+Actor 			Gebruiker, database
+Preconditie 		Huidige lijst is
+Beschrijving 		De gebruiker geeft aan een product toe te willen voegen en voert deze gegevens in. Het systeem zoekt de recent bestelde producten op en presenteert dit aan de gebruiker. 
+			Na het invullen van gegevens kan de gebruiker ervoor kiezen om de hoeveelheid aan te passen en vervolgens de invoer te bevestigen.
+Uitzonderingen 		[Annuleren] Als de gebruiker op de betreffende knop tikt, wordt het invulveld leeg gemaakt, verandert het terug in een knop en verdwijnt de recent-lijst.
+Niet-functionele eisen 	
+Postconditie 		De gebruiker kan het item aan de lijst toegevoegd zien worden.
+
+
+Naam 			Productbestelling wijzigen of verwijderen
+Versie 			1.0
+Actor 			Gebruiker, database
+Preconditie 		Er staat minimaal één item in de lijst die de gebruiker heeft toegevoegd
+			Product is niet afgevinkt
+Beschrijving 		De gebruiker geeft aan een productbestelling te willen wijzigen. Vervolgens verandert de betreffende regel in een reeds ingevuld veld zoals in Use-case "Productbestelling toevoegen".
+			Op dit moment kan de gebruiker er ook voor kiezen om de regel te verwijderen.
+Uitzonderingen 		
+Niet-functionele eisen 	
+Postconditie 		De gebruiker kan het item gewijzigd of verwijderd zien worden.
+
+
+Naam 			Lopen
+Versie 			1.0
+Actor 			Loper, database
+Preconditie 		Er staat minimaal één item in de lijst
+Beschrijving 		De gebruiker geeft aan de boodschappen te gaan halen. Het systeem van de loper wordt voorzien van de loper-UI en sluit de lijst waardoor er geen items aan toegevoegd kunnen worden.
+			Tijdens het lopen kunnen producten worden afgevinkt.
+Uitzonderingen 		
+Niet-functionele eisen 	
+Postconditie 		De lijst is afgesloten en kan niet meer worden aangevuld.

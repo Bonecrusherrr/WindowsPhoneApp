@@ -1,0 +1,15 @@
+//dependencies=
+define(["require", "exports"], function (require, exports) {
+    "use strict";
+    exports.IconName = {
+        Completed: "Completed",
+        Blocked: "Blocked",
+        Settings: "Settings",
+        Copy: "Copy",
+        Cancel: "Cancel",
+        Add: "Add",
+        None: "None",
+    };
+});
+
+//direct-dependencies=
